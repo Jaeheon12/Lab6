@@ -1,0 +1,4 @@
+alphabet    abc def ghjijk lmn
+english    opqr stu 
+number    123 45678 90
+qwe 123 wqe qr
